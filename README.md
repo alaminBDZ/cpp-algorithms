@@ -31,7 +31,7 @@ Here is what I am currently working on and what I plan to tackle next:
 
 - [x] Set up a clean, professional Git workflow.
 - [x] Master the Two-Pointer approach with proper index tracking.
-- [ ] Implement Sliding Window techniques for dynamic arrays.
+- [x] Implement Sliding Window techniques for dynamic arrays.
 - [ ] Practice building linear-time solutions using Hash Maps.
 - [ ] Deep dive into standard divide-and-conquer sorting (Merge Sort, Quick Sort).
 - [ ] Implement custom linear and non-linear data structures.
